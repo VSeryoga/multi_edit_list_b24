@@ -1,0 +1,11 @@
+.sum_lists{
+	color: #001fff;
+	margin-left: 5px;
+}
+/*редактироваие списка*/
+#custom_list_save, #custom_list_cancel{
+	display: none;
+}
+#custom_list_save span{
+	background-color: #bbed21
+}
